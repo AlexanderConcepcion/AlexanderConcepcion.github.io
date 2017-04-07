@@ -2,7 +2,7 @@
   "settings": {
     "currentPage": "page7.html",
     "versionFirst": "3.8.3",
-    "uniqCompNum": 60,
+    "uniqCompNum": 61,
     "versionPublish": "3.11.1",
     "name": "Dont touch or look but I know you will",
     "theme": {
@@ -1815,16 +1815,11 @@
             "Theme"
           ],
           "_name": "msg-box4",
-          "_styles": {
-            "H3": {
-              "color": "#ffffff"
-            }
-          },
-          "_anchor": "msg-box4-1n",
+          "_anchor": "msg-box4-1o",
           "_params": {
-            "imageSize": "44",
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "imageSize": 50,
+            "paddingTop": "3",
+            "paddingBottom": "3",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -1849,7 +1844,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/watch?v=pJHvpkY9xsk&feature=youtu.be",
+              "src": "https://youtu.be/pJHvpkY9xsk",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
@@ -1862,7 +1857,12 @@
           },
           "title": "Imagine Dragons Adobe Make the Cut",
           "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://www.youtube.com/watch?v=pJHvpkY9xsk&amp;feature=youtu.be\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">View on Youtube</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://youtu.be/pJHvpkY9xsk\" data-toolbar=\"-mbrBtnMove\">View on Youtube</a>",
+          "_styles": {
+            "H3": {
+              "color": "#ffffff"
+            }
+          }
         }
       ]
     }
