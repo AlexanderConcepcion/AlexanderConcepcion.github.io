@@ -1,8 +1,8 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "photoshop.html",
     "versionFirst": "3.8.3",
-    "uniqCompNum": 64,
+    "uniqCompNum": 68,
     "versionPublish": "3.11.1",
     "name": "Dont touch or look but I know you will",
     "theme": {
@@ -993,6 +993,31 @@
           },
           "_anchor": "slider3-13",
           "articleLayout": false
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-1v",
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/crusades-hdr-toned-1400x851.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "_params": {
+            "showText": true
+          },
+          "text": "The Battle of Ascalon the last act of The Crusades<br>"
         }
       ]
     },
